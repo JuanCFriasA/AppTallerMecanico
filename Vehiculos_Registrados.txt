@@ -1,0 +1,2 @@
+Matricula;Marca;Modelo;Año;ClienteID
+K10C25;Toyota ;Land Cruiser;2015;1
